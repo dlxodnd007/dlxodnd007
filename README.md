@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a developer passionate about building data-driven serv
 
 ## 👨‍💻 About Me
 - 💡 Solved.ac 프로필:
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlxodnd007)](https://solved.ac/dlxodnd007/)
+- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlxodnd007)](https://solved.ac/dlxodnd007/)
 - 🌍 Location: Seoul, South Korea  
 - 📫 Email: dlxodnd007@naver.com  
 
