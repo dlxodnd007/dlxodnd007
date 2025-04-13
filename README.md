@@ -5,8 +5,8 @@ Welcome to my GitHub! I'm a developer passionate about building data-driven serv
 ---
 
 ## 👨‍💻 About Me
-
-- 💡 Solved.ac 프로필: [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlxodnd007)](https://solved.ac/dlxodnd007/)
+- 💡 Solved.ac 프로필:
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlxodnd007)](https://solved.ac/dlxodnd007/)
 - 🌍 Location: Seoul, South Korea  
 - 📫 Email: dlxodnd007@naver.com  
 
@@ -22,35 +22,41 @@ Welcome to my GitHub! I'm a developer passionate about building data-driven serv
 
 ### 📱 Health Hola  
 **헬스올라: 건강 정보 기반 모바일 서비스 앱 (React Native 기반)**  
-- 사용자 인증 및 프로필 관리  
-- 건강 콘텐츠 및 커뮤니티 기능 구현  
-- AWS + Spring Boot 백엔드 연동  
-
+- Health Hola react-native : 헬스올라, 건강기능 아이템 체험단 어플리케이션,  react-native 구현
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
-- Java, Python  
-- Spring, Spring Boot, Spring Data JPA, Spring Security  
-- FastAPI  
+### Backend  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-### Frontend
-- Vue.js, React.js  
-- Javascript, HTML  
+### Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-### Database
-- MySQL, PostgreSQL, Redis  
-- MongoDB  
+### Database  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### DevOps & Infra
-- Git, GitHub, Jenkins  
-- Docker, Docker Compose  
-- AWS EC2, S3 Bucket, RDS  
-- Vercel  
+### DevOps & Infra  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
-### Collaboration Tools
-- GitHub, Notion, Discord, Slack  
+### Collaboration Tools  
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
 ---
 
