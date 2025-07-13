@@ -20,8 +20,8 @@ Welcome to my GitHub! I'm a developer passionate about building data-driven serv
 - 유전 알고리즘 기반의 입지 최적화 모델 설계  
 
 ### 📱 Health Hola  
-**헬스올라: 건강 정보 기반 모바일 서비스 앱 (React Native 기반)**  
-- Health Hola react-native : 헬스올라, 건강기능 아이템 체험단 어플리케이션,  react-native 구현
+**헬스올라: 건강기능식품 체험단 모바일 서비스 앱 (React Native 기반)**  
+- Health Hola react-native : 헬스올라, 건강기능식품 체험단 어플리케이션,  react-native 구현
 ---
 
 ## 🛠️ Tech Stack
