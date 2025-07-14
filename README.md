@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a developer passionate about building data-driven serv
 **전동보장구 충전소의 최적입지 선정 프로젝트**  
 - 데이터 수집, 전처리 및 행정동 통합  
 - 장애인 단체 인터뷰를 반영한 가중치 설정  
-- 유전 알고리즘 기반의 입지 최적화 모델 설계  
+- 유전 알고리즘 기반의 최적 입지 선정 모델 설계  
 
 ### 📱 Health Hola  
 **헬스올라: 건강기능식품 체험단 모바일 서비스 앱 (React Native 기반)**  
